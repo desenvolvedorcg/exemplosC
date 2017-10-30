@@ -13,5 +13,7 @@ printf("*p = %d\n", *p);
 printf("&x = %p\n", &x);
 printf("p = %p\n",p);
 
+return 0;
+
 }
 
