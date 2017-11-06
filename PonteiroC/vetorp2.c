@@ -6,6 +6,9 @@ int main(){
     ponteiro que aponta para o 
     primeiro elemento do array. */
 
+
+    // *(p+2) = p[2]
+    // *(p+7) = p[7]
     int vet[5] = {1,2,3,4,5};
     int *p = vet;
     int i;
